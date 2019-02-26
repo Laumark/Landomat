@@ -1,7 +1,7 @@
 # Mobile App Landing Page Configuration
 
 # App Info
-ios_app_id                                : 618783545                                 # Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1389159829                                 # Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
